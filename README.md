@@ -1,5 +1,5 @@
 # sample_peco_apt
-peco + apt
+peco + apt  
 https://github.com/peco/peco/wiki/Sample-Usage#peco--apt
 
 ```
